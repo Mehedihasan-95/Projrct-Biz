@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450.133" height="447.055" viewBox="0 0 450.133 447.055">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01b5b0"/>
+      <stop offset="0.435" stop-color="#01bbb6"/>
+      <stop offset="1" stop-color="#00cec9"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_310" data-name="Path 310" d="M286.951,0c158.479,0,26.311-46.223,26.311,112.256s-60.528,138.21-73.416,150.768S0,445.43,0,286.951,128.473,0,286.951,0Z" opacity="0.15" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="_70-percent-inside-circle" data-name="70-percent-inside-circle" transform="translate(448.403 340.438) rotate(164)" clip-path="url(#clip-path)">
+    <g id="Group_343" data-name="Group 343" transform="translate(-47.954 -62.241)" opacity="0.42">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="125.859" cy="125.859" r="125.859" transform="translate(355.982 177.991) rotate(135)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="110.347" cy="110.347" r="110.347" transform="translate(334.046 177.991) rotate(135)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="94.836" cy="94.836" r="94.836" transform="translate(312.11 177.991) rotate(135)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="79.325" cy="79.325" r="79.325" transform="translate(290.173 177.991) rotate(135)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="63.813" cy="63.813" r="63.813" transform="translate(268.237 177.991) rotate(135)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="48.302" cy="48.302" rx="48.302" ry="48.302" transform="translate(240.324 150.049) rotate(110.854)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="40.546" cy="40.546" rx="40.546" ry="40.546" transform="matrix(-1, 0.001, -0.001, -1, 218.583, 218.491)" fill="none" stroke="#31cdc9" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

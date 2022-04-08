@@ -1,0 +1,862 @@
+<svg id="Group_18" data-name="Group 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="1080" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="145" cy="145" r="145" transform="translate(970.977 1297.978)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8e31f3"/>
+      <stop offset="1" stop-color="#9540f3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.403" y1="0.092" x2="0.406" y2="1.011" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aa58ff"/>
+      <stop offset="0.339" stop-color="#983ef8"/>
+      <stop offset="1" stop-color="#7b1ee5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.61" y1="0.101" x2="0.617" y2="0.975" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ab5ffb"/>
+      <stop offset="0.456" stop-color="#8f33f3"/>
+      <stop offset="1" stop-color="#8020ee"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(670.023 -283.978)" clip-path="url(#clip-path-2)">
+      <g id="Group_10" data-name="Group 10" transform="translate(1252.579 1614.764) rotate(180)" opacity="0.19">
+        <g id="Group_8" data-name="Group 8">
+          <g id="Component_2_2" data-name="Component 2 – 2">
+            <circle id="Ellipse_14" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_3" data-name="Component 2 – 3" transform="translate(21.635)">
+            <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_4" data-name="Component 2 – 4" transform="translate(43.271)">
+            <circle id="Ellipse_14-3" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_5" data-name="Component 2 – 5" transform="translate(64.906)">
+            <circle id="Ellipse_14-4" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_6" data-name="Component 2 – 6" transform="translate(86.542)">
+            <circle id="Ellipse_14-5" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_7" data-name="Component 2 – 7" transform="translate(108.177)">
+            <circle id="Ellipse_14-6" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_8" data-name="Component 2 – 8" transform="translate(129.812)">
+            <circle id="Ellipse_14-7" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_9" data-name="Component 2 – 9" transform="translate(151.448)">
+            <circle id="Ellipse_14-8" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_10" data-name="Component 2 – 10" transform="translate(173.083)">
+            <circle id="Ellipse_14-9" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_11" data-name="Component 2 – 11" transform="translate(194.718)">
+            <circle id="Ellipse_14-10" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_12" data-name="Component 2 – 12" transform="translate(216.354)">
+            <circle id="Ellipse_14-11" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_13" data-name="Component 2 – 13" transform="translate(237.989)">
+            <circle id="Ellipse_14-12" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_14" data-name="Component 2 – 14" transform="translate(259.625)">
+            <circle id="Ellipse_14-13" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_15" data-name="Component 2 – 15" transform="translate(281.26)">
+            <circle id="Ellipse_14-14" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_16" data-name="Component 2 – 16" transform="translate(0 21.635)">
+            <circle id="Ellipse_14-15" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_17" data-name="Component 2 – 17" transform="translate(21.635 21.635)">
+            <circle id="Ellipse_14-16" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_18" data-name="Component 2 – 18" transform="translate(43.271 21.635)">
+            <circle id="Ellipse_14-17" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_19" data-name="Component 2 – 19" transform="translate(64.906 21.635)">
+            <circle id="Ellipse_14-18" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_20" data-name="Component 2 – 20" transform="translate(86.542 21.635)">
+            <circle id="Ellipse_14-19" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_21" data-name="Component 2 – 21" transform="translate(108.177 21.635)">
+            <circle id="Ellipse_14-20" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_22" data-name="Component 2 – 22" transform="translate(129.812 21.635)">
+            <circle id="Ellipse_14-21" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_23" data-name="Component 2 – 23" transform="translate(151.448 21.635)">
+            <circle id="Ellipse_14-22" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_24" data-name="Component 2 – 24" transform="translate(173.083 21.635)">
+            <circle id="Ellipse_14-23" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_25" data-name="Component 2 – 25" transform="translate(194.718 21.635)">
+            <circle id="Ellipse_14-24" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_26" data-name="Component 2 – 26" transform="translate(216.354 21.635)">
+            <circle id="Ellipse_14-25" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_27" data-name="Component 2 – 27" transform="translate(237.989 21.635)">
+            <circle id="Ellipse_14-26" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_28" data-name="Component 2 – 28" transform="translate(259.625 21.635)">
+            <circle id="Ellipse_14-27" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_29" data-name="Component 2 – 29" transform="translate(281.26 21.635)">
+            <circle id="Ellipse_14-28" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_30" data-name="Component 2 – 30" transform="translate(0 43.271)">
+            <circle id="Ellipse_14-29" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_31" data-name="Component 2 – 31" transform="translate(21.635 43.271)">
+            <circle id="Ellipse_14-30" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_32" data-name="Component 2 – 32" transform="translate(43.271 43.271)">
+            <circle id="Ellipse_14-31" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_33" data-name="Component 2 – 33" transform="translate(64.906 43.271)">
+            <circle id="Ellipse_14-32" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_34" data-name="Component 2 – 34" transform="translate(86.542 43.271)">
+            <circle id="Ellipse_14-33" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_35" data-name="Component 2 – 35" transform="translate(108.177 43.271)">
+            <circle id="Ellipse_14-34" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_36" data-name="Component 2 – 36" transform="translate(129.812 43.271)">
+            <circle id="Ellipse_14-35" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_37" data-name="Component 2 – 37" transform="translate(151.448 43.271)">
+            <circle id="Ellipse_14-36" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_38" data-name="Component 2 – 38" transform="translate(173.083 43.271)">
+            <circle id="Ellipse_14-37" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_39" data-name="Component 2 – 39" transform="translate(194.718 43.271)">
+            <circle id="Ellipse_14-38" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_40" data-name="Component 2 – 40" transform="translate(216.354 43.271)">
+            <circle id="Ellipse_14-39" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_41" data-name="Component 2 – 41" transform="translate(237.989 43.271)">
+            <circle id="Ellipse_14-40" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_42" data-name="Component 2 – 42" transform="translate(259.625 43.271)">
+            <circle id="Ellipse_14-41" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_43" data-name="Component 2 – 43" transform="translate(281.26 43.271)">
+            <circle id="Ellipse_14-42" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_44" data-name="Component 2 – 44" transform="translate(0 64.906)">
+            <circle id="Ellipse_14-43" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_45" data-name="Component 2 – 45" transform="translate(21.635 64.906)">
+            <circle id="Ellipse_14-44" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_46" data-name="Component 2 – 46" transform="translate(43.271 64.906)">
+            <circle id="Ellipse_14-45" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_47" data-name="Component 2 – 47" transform="translate(64.906 64.906)">
+            <circle id="Ellipse_14-46" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_48" data-name="Component 2 – 48" transform="translate(86.542 64.906)">
+            <circle id="Ellipse_14-47" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_49" data-name="Component 2 – 49" transform="translate(108.177 64.906)">
+            <circle id="Ellipse_14-48" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_50" data-name="Component 2 – 50" transform="translate(129.812 64.906)">
+            <circle id="Ellipse_14-49" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_51" data-name="Component 2 – 51" transform="translate(151.448 64.906)">
+            <circle id="Ellipse_14-50" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_52" data-name="Component 2 – 52" transform="translate(173.083 64.906)">
+            <circle id="Ellipse_14-51" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_53" data-name="Component 2 – 53" transform="translate(194.718 64.906)">
+            <circle id="Ellipse_14-52" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_54" data-name="Component 2 – 54" transform="translate(216.354 64.906)">
+            <circle id="Ellipse_14-53" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_55" data-name="Component 2 – 55" transform="translate(237.989 64.906)">
+            <circle id="Ellipse_14-54" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_56" data-name="Component 2 – 56" transform="translate(259.625 64.906)">
+            <circle id="Ellipse_14-55" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_57" data-name="Component 2 – 57" transform="translate(281.26 64.906)">
+            <circle id="Ellipse_14-56" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_58" data-name="Component 2 – 58" transform="translate(0 86.542)">
+            <circle id="Ellipse_14-57" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_59" data-name="Component 2 – 59" transform="translate(21.635 86.542)">
+            <circle id="Ellipse_14-58" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_60" data-name="Component 2 – 60" transform="translate(43.271 86.542)">
+            <circle id="Ellipse_14-59" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_61" data-name="Component 2 – 61" transform="translate(64.906 86.542)">
+            <circle id="Ellipse_14-60" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_62" data-name="Component 2 – 62" transform="translate(86.542 86.542)">
+            <circle id="Ellipse_14-61" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_63" data-name="Component 2 – 63" transform="translate(108.177 86.542)">
+            <circle id="Ellipse_14-62" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_64" data-name="Component 2 – 64" transform="translate(129.812 86.542)">
+            <circle id="Ellipse_14-63" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_65" data-name="Component 2 – 65" transform="translate(151.448 86.542)">
+            <circle id="Ellipse_14-64" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_66" data-name="Component 2 – 66" transform="translate(173.083 86.542)">
+            <circle id="Ellipse_14-65" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_67" data-name="Component 2 – 67" transform="translate(194.718 86.542)">
+            <circle id="Ellipse_14-66" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_68" data-name="Component 2 – 68" transform="translate(216.354 86.542)">
+            <circle id="Ellipse_14-67" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_69" data-name="Component 2 – 69" transform="translate(237.989 86.542)">
+            <circle id="Ellipse_14-68" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_70" data-name="Component 2 – 70" transform="translate(259.625 86.542)">
+            <circle id="Ellipse_14-69" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_71" data-name="Component 2 – 71" transform="translate(281.26 86.542)">
+            <circle id="Ellipse_14-70" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_72" data-name="Component 2 – 72" transform="translate(0 108.177)">
+            <circle id="Ellipse_14-71" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_73" data-name="Component 2 – 73" transform="translate(21.635 108.177)">
+            <circle id="Ellipse_14-72" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_74" data-name="Component 2 – 74" transform="translate(43.271 108.177)">
+            <circle id="Ellipse_14-73" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_75" data-name="Component 2 – 75" transform="translate(64.906 108.177)">
+            <circle id="Ellipse_14-74" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_76" data-name="Component 2 – 76" transform="translate(86.542 108.177)">
+            <circle id="Ellipse_14-75" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_77" data-name="Component 2 – 77" transform="translate(108.177 108.177)">
+            <circle id="Ellipse_14-76" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_78" data-name="Component 2 – 78" transform="translate(129.812 108.177)">
+            <circle id="Ellipse_14-77" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_79" data-name="Component 2 – 79" transform="translate(151.448 108.177)">
+            <circle id="Ellipse_14-78" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_80" data-name="Component 2 – 80" transform="translate(173.083 108.177)">
+            <circle id="Ellipse_14-79" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_81" data-name="Component 2 – 81" transform="translate(194.718 108.177)">
+            <circle id="Ellipse_14-80" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_82" data-name="Component 2 – 82" transform="translate(216.354 108.177)">
+            <circle id="Ellipse_14-81" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_83" data-name="Component 2 – 83" transform="translate(237.989 108.177)">
+            <circle id="Ellipse_14-82" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_84" data-name="Component 2 – 84" transform="translate(259.625 108.177)">
+            <circle id="Ellipse_14-83" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_85" data-name="Component 2 – 85" transform="translate(281.26 108.177)">
+            <circle id="Ellipse_14-84" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_86" data-name="Component 2 – 86" transform="translate(0 129.812)">
+            <circle id="Ellipse_14-85" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_87" data-name="Component 2 – 87" transform="translate(21.635 129.812)">
+            <circle id="Ellipse_14-86" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_88" data-name="Component 2 – 88" transform="translate(43.271 129.812)">
+            <circle id="Ellipse_14-87" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_89" data-name="Component 2 – 89" transform="translate(64.906 129.812)">
+            <circle id="Ellipse_14-88" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_90" data-name="Component 2 – 90" transform="translate(86.542 129.812)">
+            <circle id="Ellipse_14-89" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_91" data-name="Component 2 – 91" transform="translate(108.177 129.812)">
+            <circle id="Ellipse_14-90" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_92" data-name="Component 2 – 92" transform="translate(129.812 129.812)">
+            <circle id="Ellipse_14-91" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_93" data-name="Component 2 – 93" transform="translate(151.448 129.812)">
+            <circle id="Ellipse_14-92" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_94" data-name="Component 2 – 94" transform="translate(173.083 129.812)">
+            <circle id="Ellipse_14-93" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_95" data-name="Component 2 – 95" transform="translate(194.718 129.812)">
+            <circle id="Ellipse_14-94" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_96" data-name="Component 2 – 96" transform="translate(216.354 129.812)">
+            <circle id="Ellipse_14-95" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_97" data-name="Component 2 – 97" transform="translate(237.989 129.812)">
+            <circle id="Ellipse_14-96" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_98" data-name="Component 2 – 98" transform="translate(259.625 129.812)">
+            <circle id="Ellipse_14-97" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_99" data-name="Component 2 – 99" transform="translate(281.26 129.812)">
+            <circle id="Ellipse_14-98" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_100" data-name="Component 2 – 100" transform="translate(0 151.448)">
+            <circle id="Ellipse_14-99" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_101" data-name="Component 2 – 101" transform="translate(21.635 151.448)">
+            <circle id="Ellipse_14-100" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_102" data-name="Component 2 – 102" transform="translate(43.271 151.448)">
+            <circle id="Ellipse_14-101" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_103" data-name="Component 2 – 103" transform="translate(64.906 151.448)">
+            <circle id="Ellipse_14-102" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_104" data-name="Component 2 – 104" transform="translate(86.542 151.448)">
+            <circle id="Ellipse_14-103" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_105" data-name="Component 2 – 105" transform="translate(108.177 151.448)">
+            <circle id="Ellipse_14-104" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_106" data-name="Component 2 – 106" transform="translate(129.812 151.448)">
+            <circle id="Ellipse_14-105" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_107" data-name="Component 2 – 107" transform="translate(151.448 151.448)">
+            <circle id="Ellipse_14-106" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_108" data-name="Component 2 – 108" transform="translate(173.083 151.448)">
+            <circle id="Ellipse_14-107" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_109" data-name="Component 2 – 109" transform="translate(194.718 151.448)">
+            <circle id="Ellipse_14-108" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_110" data-name="Component 2 – 110" transform="translate(216.354 151.448)">
+            <circle id="Ellipse_14-109" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_111" data-name="Component 2 – 111" transform="translate(237.989 151.448)">
+            <circle id="Ellipse_14-110" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_112" data-name="Component 2 – 112" transform="translate(259.625 151.448)">
+            <circle id="Ellipse_14-111" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_113" data-name="Component 2 – 113" transform="translate(281.26 151.448)">
+            <circle id="Ellipse_14-112" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_114" data-name="Component 2 – 114" transform="translate(0 173.083)">
+            <circle id="Ellipse_14-113" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_115" data-name="Component 2 – 115" transform="translate(21.635 173.083)">
+            <circle id="Ellipse_14-114" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_116" data-name="Component 2 – 116" transform="translate(43.271 173.083)">
+            <circle id="Ellipse_14-115" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_117" data-name="Component 2 – 117" transform="translate(64.906 173.083)">
+            <circle id="Ellipse_14-116" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_118" data-name="Component 2 – 118" transform="translate(86.542 173.083)">
+            <circle id="Ellipse_14-117" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_119" data-name="Component 2 – 119" transform="translate(108.177 173.083)">
+            <circle id="Ellipse_14-118" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_120" data-name="Component 2 – 120" transform="translate(129.812 173.083)">
+            <circle id="Ellipse_14-119" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_121" data-name="Component 2 – 121" transform="translate(151.448 173.083)">
+            <circle id="Ellipse_14-120" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_122" data-name="Component 2 – 122" transform="translate(173.083 173.083)">
+            <circle id="Ellipse_14-121" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_123" data-name="Component 2 – 123" transform="translate(194.718 173.083)">
+            <circle id="Ellipse_14-122" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_124" data-name="Component 2 – 124" transform="translate(216.354 173.083)">
+            <circle id="Ellipse_14-123" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_125" data-name="Component 2 – 125" transform="translate(237.989 173.083)">
+            <circle id="Ellipse_14-124" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_126" data-name="Component 2 – 126" transform="translate(259.625 173.083)">
+            <circle id="Ellipse_14-125" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_127" data-name="Component 2 – 127" transform="translate(281.26 173.083)">
+            <circle id="Ellipse_14-126" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_128" data-name="Component 2 – 128" transform="translate(0 194.718)">
+            <circle id="Ellipse_14-127" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_129" data-name="Component 2 – 129" transform="translate(21.635 194.718)">
+            <circle id="Ellipse_14-128" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_130" data-name="Component 2 – 130" transform="translate(43.271 194.718)">
+            <circle id="Ellipse_14-129" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_131" data-name="Component 2 – 131" transform="translate(64.906 194.718)">
+            <circle id="Ellipse_14-130" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_132" data-name="Component 2 – 132" transform="translate(86.542 194.718)">
+            <circle id="Ellipse_14-131" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_133" data-name="Component 2 – 133" transform="translate(108.177 194.718)">
+            <circle id="Ellipse_14-132" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_134" data-name="Component 2 – 134" transform="translate(129.812 194.718)">
+            <circle id="Ellipse_14-133" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_135" data-name="Component 2 – 135" transform="translate(151.448 194.718)">
+            <circle id="Ellipse_14-134" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_136" data-name="Component 2 – 136" transform="translate(173.083 194.718)">
+            <circle id="Ellipse_14-135" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_137" data-name="Component 2 – 137" transform="translate(194.718 194.718)">
+            <circle id="Ellipse_14-136" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_138" data-name="Component 2 – 138" transform="translate(216.354 194.718)">
+            <circle id="Ellipse_14-137" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_139" data-name="Component 2 – 139" transform="translate(237.989 194.718)">
+            <circle id="Ellipse_14-138" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_140" data-name="Component 2 – 140" transform="translate(259.625 194.718)">
+            <circle id="Ellipse_14-139" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_141" data-name="Component 2 – 141" transform="translate(281.26 194.718)">
+            <circle id="Ellipse_14-140" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_142" data-name="Component 2 – 142" transform="translate(0 216.354)">
+            <circle id="Ellipse_14-141" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_143" data-name="Component 2 – 143" transform="translate(21.635 216.354)">
+            <circle id="Ellipse_14-142" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_144" data-name="Component 2 – 144" transform="translate(43.271 216.354)">
+            <circle id="Ellipse_14-143" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_145" data-name="Component 2 – 145" transform="translate(64.906 216.354)">
+            <circle id="Ellipse_14-144" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_146" data-name="Component 2 – 146" transform="translate(86.542 216.354)">
+            <circle id="Ellipse_14-145" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_147" data-name="Component 2 – 147" transform="translate(108.177 216.354)">
+            <circle id="Ellipse_14-146" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_148" data-name="Component 2 – 148" transform="translate(129.812 216.354)">
+            <circle id="Ellipse_14-147" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_149" data-name="Component 2 – 149" transform="translate(151.448 216.354)">
+            <circle id="Ellipse_14-148" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_150" data-name="Component 2 – 150" transform="translate(173.083 216.354)">
+            <circle id="Ellipse_14-149" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_151" data-name="Component 2 – 151" transform="translate(194.718 216.354)">
+            <circle id="Ellipse_14-150" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_152" data-name="Component 2 – 152" transform="translate(216.354 216.354)">
+            <circle id="Ellipse_14-151" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_153" data-name="Component 2 – 153" transform="translate(237.989 216.354)">
+            <circle id="Ellipse_14-152" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_154" data-name="Component 2 – 154" transform="translate(259.625 216.354)">
+            <circle id="Ellipse_14-153" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_155" data-name="Component 2 – 155" transform="translate(281.26 216.354)">
+            <circle id="Ellipse_14-154" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_156" data-name="Component 2 – 156" transform="translate(0 237.989)">
+            <circle id="Ellipse_14-155" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_157" data-name="Component 2 – 157" transform="translate(21.635 237.989)">
+            <circle id="Ellipse_14-156" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_158" data-name="Component 2 – 158" transform="translate(43.271 237.989)">
+            <circle id="Ellipse_14-157" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_159" data-name="Component 2 – 159" transform="translate(64.906 237.989)">
+            <circle id="Ellipse_14-158" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_160" data-name="Component 2 – 160" transform="translate(86.542 237.989)">
+            <circle id="Ellipse_14-159" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_161" data-name="Component 2 – 161" transform="translate(108.177 237.989)">
+            <circle id="Ellipse_14-160" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_162" data-name="Component 2 – 162" transform="translate(129.812 237.989)">
+            <circle id="Ellipse_14-161" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_163" data-name="Component 2 – 163" transform="translate(151.448 237.989)">
+            <circle id="Ellipse_14-162" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_164" data-name="Component 2 – 164" transform="translate(173.083 237.989)">
+            <circle id="Ellipse_14-163" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_165" data-name="Component 2 – 165" transform="translate(194.718 237.989)">
+            <circle id="Ellipse_14-164" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_166" data-name="Component 2 – 166" transform="translate(216.354 237.989)">
+            <circle id="Ellipse_14-165" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_167" data-name="Component 2 – 167" transform="translate(237.989 237.989)">
+            <circle id="Ellipse_14-166" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_168" data-name="Component 2 – 168" transform="translate(259.625 237.989)">
+            <circle id="Ellipse_14-167" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_169" data-name="Component 2 – 169" transform="translate(281.26 237.989)">
+            <circle id="Ellipse_14-168" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_170" data-name="Component 2 – 170" transform="translate(0 259.625)">
+            <circle id="Ellipse_14-169" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_171" data-name="Component 2 – 171" transform="translate(21.635 259.625)">
+            <circle id="Ellipse_14-170" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_172" data-name="Component 2 – 172" transform="translate(43.271 259.625)">
+            <circle id="Ellipse_14-171" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_173" data-name="Component 2 – 173" transform="translate(64.906 259.625)">
+            <circle id="Ellipse_14-172" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_174" data-name="Component 2 – 174" transform="translate(86.542 259.625)">
+            <circle id="Ellipse_14-173" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_175" data-name="Component 2 – 175" transform="translate(108.177 259.625)">
+            <circle id="Ellipse_14-174" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_176" data-name="Component 2 – 176" transform="translate(129.812 259.625)">
+            <circle id="Ellipse_14-175" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_177" data-name="Component 2 – 177" transform="translate(151.448 259.625)">
+            <circle id="Ellipse_14-176" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_178" data-name="Component 2 – 178" transform="translate(173.083 259.625)">
+            <circle id="Ellipse_14-177" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_179" data-name="Component 2 – 179" transform="translate(194.718 259.625)">
+            <circle id="Ellipse_14-178" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_180" data-name="Component 2 – 180" transform="translate(216.354 259.625)">
+            <circle id="Ellipse_14-179" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_181" data-name="Component 2 – 181" transform="translate(237.989 259.625)">
+            <circle id="Ellipse_14-180" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_182" data-name="Component 2 – 182" transform="translate(259.625 259.625)">
+            <circle id="Ellipse_14-181" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_183" data-name="Component 2 – 183" transform="translate(281.26 259.625)">
+            <circle id="Ellipse_14-182" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_184" data-name="Component 2 – 184" transform="translate(0 281.26)">
+            <circle id="Ellipse_14-183" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_185" data-name="Component 2 – 185" transform="translate(21.635 281.26)">
+            <circle id="Ellipse_14-184" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_186" data-name="Component 2 – 186" transform="translate(43.271 281.26)">
+            <circle id="Ellipse_14-185" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_187" data-name="Component 2 – 187" transform="translate(64.906 281.26)">
+            <circle id="Ellipse_14-186" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_188" data-name="Component 2 – 188" transform="translate(86.542 281.26)">
+            <circle id="Ellipse_14-187" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_189" data-name="Component 2 – 189" transform="translate(108.177 281.26)">
+            <circle id="Ellipse_14-188" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_190" data-name="Component 2 – 190" transform="translate(129.812 281.26)">
+            <circle id="Ellipse_14-189" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_191" data-name="Component 2 – 191" transform="translate(151.448 281.26)">
+            <circle id="Ellipse_14-190" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_192" data-name="Component 2 – 192" transform="translate(173.083 281.26)">
+            <circle id="Ellipse_14-191" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_193" data-name="Component 2 – 193" transform="translate(194.718 281.26)">
+            <circle id="Ellipse_14-192" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_194" data-name="Component 2 – 194" transform="translate(216.354 281.26)">
+            <circle id="Ellipse_14-193" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_195" data-name="Component 2 – 195" transform="translate(237.989 281.26)">
+            <circle id="Ellipse_14-194" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_196" data-name="Component 2 – 196" transform="translate(259.625 281.26)">
+            <circle id="Ellipse_14-195" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_197" data-name="Component 2 – 197" transform="translate(281.26 281.26)">
+            <circle id="Ellipse_14-196" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_198" data-name="Component 2 – 198" transform="translate(0 302.895)">
+            <circle id="Ellipse_14-197" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_199" data-name="Component 2 – 199" transform="translate(21.635 302.895)">
+            <circle id="Ellipse_14-198" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_200" data-name="Component 2 – 200" transform="translate(43.271 302.895)">
+            <circle id="Ellipse_14-199" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_201" data-name="Component 2 – 201" transform="translate(64.906 302.895)">
+            <circle id="Ellipse_14-200" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_202" data-name="Component 2 – 202" transform="translate(86.542 302.895)">
+            <circle id="Ellipse_14-201" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_203" data-name="Component 2 – 203" transform="translate(108.177 302.895)">
+            <circle id="Ellipse_14-202" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_204" data-name="Component 2 – 204" transform="translate(129.812 302.895)">
+            <circle id="Ellipse_14-203" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_205" data-name="Component 2 – 205" transform="translate(151.448 302.895)">
+            <circle id="Ellipse_14-204" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_206" data-name="Component 2 – 206" transform="translate(173.083 302.895)">
+            <circle id="Ellipse_14-205" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_207" data-name="Component 2 – 207" transform="translate(194.718 302.895)">
+            <circle id="Ellipse_14-206" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_208" data-name="Component 2 – 208" transform="translate(216.354 302.895)">
+            <circle id="Ellipse_14-207" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_209" data-name="Component 2 – 209" transform="translate(237.989 302.895)">
+            <circle id="Ellipse_14-208" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_210" data-name="Component 2 – 210" transform="translate(259.625 302.895)">
+            <circle id="Ellipse_14-209" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_211" data-name="Component 2 – 211" transform="translate(281.26 302.895)">
+            <circle id="Ellipse_14-210" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_212" data-name="Component 2 – 212" transform="translate(0 324.531)">
+            <circle id="Ellipse_14-211" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_213" data-name="Component 2 – 213" transform="translate(21.635 324.531)">
+            <circle id="Ellipse_14-212" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_214" data-name="Component 2 – 214" transform="translate(43.271 324.531)">
+            <circle id="Ellipse_14-213" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_215" data-name="Component 2 – 215" transform="translate(64.906 324.531)">
+            <circle id="Ellipse_14-214" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_216" data-name="Component 2 – 216" transform="translate(86.542 324.531)">
+            <circle id="Ellipse_14-215" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_217" data-name="Component 2 – 217" transform="translate(108.177 324.531)">
+            <circle id="Ellipse_14-216" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_218" data-name="Component 2 – 218" transform="translate(129.812 324.531)">
+            <circle id="Ellipse_14-217" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_219" data-name="Component 2 – 219" transform="translate(151.448 324.531)">
+            <circle id="Ellipse_14-218" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_220" data-name="Component 2 – 220" transform="translate(173.083 324.531)">
+            <circle id="Ellipse_14-219" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_221" data-name="Component 2 – 221" transform="translate(194.718 324.531)">
+            <circle id="Ellipse_14-220" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_222" data-name="Component 2 – 222" transform="translate(216.354 324.531)">
+            <circle id="Ellipse_14-221" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_223" data-name="Component 2 – 223" transform="translate(237.989 324.531)">
+            <circle id="Ellipse_14-222" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_224" data-name="Component 2 – 224" transform="translate(259.625 324.531)">
+            <circle id="Ellipse_14-223" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+          <g id="Component_2_225" data-name="Component 2 – 225" transform="translate(281.26 324.531)">
+            <circle id="Ellipse_14-224" data-name="Ellipse 14" cx="3.763" cy="3.763" r="3.763" fill="#d8d8d8"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M1021.889,1124H-166V133S1035.3,150.467,1021.889,1124Z" fill="url(#linear-gradient)"/>
+    <path id="Path_4" data-name="Path 4" d="M1168.405,1133.522C564.923,1082.27,590.149,312.5-40.5,295.743V-167.5H2017.355V1133.522Z" transform="translate(24.023 25.756)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_5" data-name="Path 5" d="M1331.937-33.855c-67.145,103.1-52.481,238.751-16.591,355.936,58.561,191.2,177.109,346.025,328.474,432.507,119.672,68.373,285.362,118.459,485.18,64.843V-93.5H1385.739Z" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" transform="translate(1920 1080) rotate(180)" fill="none"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(1620 -99)" opacity="0.55">
+      <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(57 429)" opacity="0.35">
+        <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-2" data-name="Component 1 – 1" transform="translate(52 371)" opacity="0.35">
+        <ellipse id="Ellipse_13-2" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-3" data-name="Component 1 – 1" transform="translate(161 376)" opacity="0.35">
+        <ellipse id="Ellipse_13-3" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-4" data-name="Component 1 – 1" transform="translate(0 318)" opacity="0.35">
+        <ellipse id="Ellipse_13-4" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-5" data-name="Component 1 – 1" transform="translate(57 323)" opacity="0.35">
+        <ellipse id="Ellipse_13-5" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-6" data-name="Component 1 – 1" transform="translate(156 318)" opacity="0.35">
+        <ellipse id="Ellipse_13-6" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-7" data-name="Component 1 – 1" transform="translate(5 270)" opacity="0.35">
+        <ellipse id="Ellipse_13-7" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-8" data-name="Component 1 – 1" transform="translate(52 265)" opacity="0.35">
+        <ellipse id="Ellipse_13-8" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-9" data-name="Component 1 – 1" transform="translate(104 265)" opacity="0.35">
+        <ellipse id="Ellipse_13-9" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-10" data-name="Component 1 – 1" transform="translate(161 270)" opacity="0.35">
+        <ellipse id="Ellipse_13-10" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-11" data-name="Component 1 – 1" transform="translate(208 265)" opacity="0.35">
+        <ellipse id="Ellipse_13-11" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-12" data-name="Component 1 – 1" transform="translate(52 212)" opacity="0.35">
+        <ellipse id="Ellipse_13-12" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-13" data-name="Component 1 – 1" transform="translate(111 219)" opacity="0.35">
+        <ellipse id="Ellipse_13-13" data-name="Ellipse 13" cx="9" cy="9.5" rx="9" ry="9.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-14" data-name="Component 1 – 1" transform="translate(156 212)" opacity="0.35">
+        <ellipse id="Ellipse_13-14" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-15" data-name="Component 1 – 1" transform="translate(52 159)" opacity="0.35">
+        <ellipse id="Ellipse_13-15" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-16" data-name="Component 1 – 1" transform="translate(164 167)" opacity="0.35">
+        <ellipse id="Ellipse_13-16" data-name="Ellipse 13" cx="8" cy="8.5" rx="8" ry="8.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-17" data-name="Component 1 – 1" transform="translate(208 159)" opacity="0.35">
+        <ellipse id="Ellipse_13-17" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-18" data-name="Component 1 – 1" transform="translate(5 111)" opacity="0.35">
+        <ellipse id="Ellipse_13-18" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-19" data-name="Component 1 – 1" transform="translate(104 106)" opacity="0.35">
+        <ellipse id="Ellipse_13-19" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-20" data-name="Component 1 – 1" transform="translate(213 111)" opacity="0.35">
+        <ellipse id="Ellipse_13-20" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-21" data-name="Component 1 – 1">
+        <ellipse id="Ellipse_13-21" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-22" data-name="Component 1 – 1" transform="translate(52)">
+        <ellipse id="Ellipse_13-22" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-23" data-name="Component 1 – 1" transform="translate(104)">
+        <ellipse id="Ellipse_13-23" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-24" data-name="Component 1 – 1" transform="translate(156)">
+        <ellipse id="Ellipse_13-24" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_1-25" data-name="Component 1 – 1" transform="translate(208)">
+        <ellipse id="Ellipse_13-25" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(390 1159) rotate(180)" opacity="0.55">
+      <g id="Component_1_2" data-name="Component 1 – 2" transform="translate(57 429)" opacity="0.35">
+        <ellipse id="Ellipse_13-26" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_3" data-name="Component 1 – 3" transform="translate(52 371)" opacity="0.35">
+        <ellipse id="Ellipse_13-27" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_4" data-name="Component 1 – 4" transform="translate(161 376)" opacity="0.35">
+        <ellipse id="Ellipse_13-28" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(0 318)" opacity="0.35">
+        <ellipse id="Ellipse_13-29" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(57 323)" opacity="0.35">
+        <ellipse id="Ellipse_13-30" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(156 318)" opacity="0.35">
+        <ellipse id="Ellipse_13-31" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(5 270)" opacity="0.35">
+        <ellipse id="Ellipse_13-32" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_9" data-name="Component 1 – 9" transform="translate(52 265)" opacity="0.35">
+        <ellipse id="Ellipse_13-33" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_10" data-name="Component 1 – 10" transform="translate(104 265)" opacity="0.35">
+        <ellipse id="Ellipse_13-34" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_11" data-name="Component 1 – 11" transform="translate(161 270)" opacity="0.35">
+        <ellipse id="Ellipse_13-35" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_12" data-name="Component 1 – 12" transform="translate(208 265)" opacity="0.35">
+        <ellipse id="Ellipse_13-36" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_13" data-name="Component 1 – 13" transform="translate(52 212)" opacity="0.35">
+        <ellipse id="Ellipse_13-37" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_14" data-name="Component 1 – 14" transform="translate(111 219)" opacity="0.35">
+        <ellipse id="Ellipse_13-38" data-name="Ellipse 13" cx="9" cy="9.5" rx="9" ry="9.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_15" data-name="Component 1 – 15" transform="translate(156 212)" opacity="0.35">
+        <ellipse id="Ellipse_13-39" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_16" data-name="Component 1 – 16" transform="translate(52 159)" opacity="0.35">
+        <ellipse id="Ellipse_13-40" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_17" data-name="Component 1 – 17" transform="translate(164 167)" opacity="0.35">
+        <ellipse id="Ellipse_13-41" data-name="Ellipse 13" cx="8" cy="8.5" rx="8" ry="8.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_18" data-name="Component 1 – 18" transform="translate(208 159)" opacity="0.35">
+        <ellipse id="Ellipse_13-42" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_19" data-name="Component 1 – 19" transform="translate(5 111)" opacity="0.35">
+        <ellipse id="Ellipse_13-43" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_20" data-name="Component 1 – 20" transform="translate(104 106)" opacity="0.35">
+        <ellipse id="Ellipse_13-44" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_21" data-name="Component 1 – 21" transform="translate(213 111)" opacity="0.35">
+        <ellipse id="Ellipse_13-45" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_22" data-name="Component 1 – 22">
+        <ellipse id="Ellipse_13-46" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_23" data-name="Component 1 – 23" transform="translate(52)">
+        <ellipse id="Ellipse_13-47" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_24" data-name="Component 1 – 24" transform="translate(104)">
+        <ellipse id="Ellipse_13-48" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_25" data-name="Component 1 – 25" transform="translate(156)">
+        <ellipse id="Ellipse_13-49" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+      <g id="Component_1_26" data-name="Component 1 – 26" transform="translate(208)">
+        <ellipse id="Ellipse_13-50" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="652" viewBox="0 0 1920 652">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_214" data-name="Rectangle 214" width="1920" height="652" fill="#ffa7a7" opacity="0.26"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_161" data-name="Rectangle 161" width="1920" height="652" fill="#fff" opacity="0.2"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.362" y1="1.083" x2="0.369" y2="-0.137" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#17cec8"/>
+      <stop offset="0.448" stop-color="#00cec9"/>
+      <stop offset="1" stop-color="#11d5d0"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-faq" clip-path="url(#clip-path)">
+    <g id="Mask_Group_45" data-name="Mask Group 45" clip-path="url(#clip-path-2)">
+      <path id="Path_432" data-name="Path 432" d="M1188.147-167.5C600.369-153.515,576.4-168.545-40.5-157.82V566.7H1972.487V-167.5Z" transform="translate(-5.543 122.556)" opacity="0.77" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(1461 -10)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="185.706" cy="185.706" r="185.706" transform="translate(0 262.627) rotate(-45)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="162.818" cy="162.818" r="162.818" transform="translate(32.367 262.627) rotate(-45)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="139.931" cy="139.931" r="139.931" transform="translate(64.735 262.627) rotate(-45)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="117.044" cy="117.044" r="117.044" transform="translate(97.102 262.627) rotate(-45)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="94.157" cy="94.157" r="94.157" transform="translate(129.469 262.627) rotate(-45)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="71.27" cy="71.27" r="71.27" transform="translate(170.655 303.857) rotate(-69.146)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="59.826" cy="59.826" r="59.826" transform="matrix(1, -0.001, 0.001, 1, 202.733, 202.869)" fill="none" stroke="#55e6e3" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path id="Path_618" data-name="Path 618" d="M6432.282,6022.552s495.182-512.09,833.354-311.6c227.059,111.114-12.055,299.524-161.84,299.524s-593.971-196.319-446.625-326.757,898.573-159.424,1224.668,16.909" transform="translate(-6179 -5441)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="7" opacity="0.5"/>
+    <g id="Group_422" data-name="Group 422" transform="translate(327.486 758.059) rotate(180)" opacity="0.55">
+      <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(57.487 433.058)" opacity="0.35">
+        <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_2" data-name="Component 1 – 2" transform="translate(52.487 374.059)" opacity="0.35">
+        <ellipse id="Ellipse_13-2" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_3" data-name="Component 1 – 3" transform="translate(162.487 379.059)" opacity="0.35">
+        <ellipse id="Ellipse_13-3" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_4" data-name="Component 1 – 4" transform="translate(0.487 320.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-4" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(57.487 326.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-5" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(158.487 320.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-6" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(4.487 272.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-7" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(52.487 267.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-8" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_9" data-name="Component 1 – 9" transform="translate(105.487 267.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-9" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_10" data-name="Component 1 – 10" transform="translate(162.487 272.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-10" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_11" data-name="Component 1 – 11" transform="translate(210.487 267.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-11" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_12" data-name="Component 1 – 12" transform="translate(52.487 213.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-12" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_13" data-name="Component 1 – 13" transform="translate(112.487 220.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-13" data-name="Ellipse 13" cx="9" cy="9.5" rx="9" ry="9.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_14" data-name="Component 1 – 14" transform="translate(158.487 213.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-14" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_15" data-name="Component 1 – 15" transform="translate(52.487 160.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-15" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_16" data-name="Component 1 – 16" transform="translate(166.487 168.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-16" data-name="Ellipse 13" cx="8" cy="8.5" rx="8" ry="8.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_17" data-name="Component 1 – 17" transform="translate(210.487 160.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-17" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_18" data-name="Component 1 – 18" transform="translate(4.487 111.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-18" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_19" data-name="Component 1 – 19" transform="translate(105.487 106.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-19" data-name="Ellipse 13" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+      <g id="Component_1_20" data-name="Component 1 – 20" transform="translate(215.487 111.058)" opacity="0.35">
+        <ellipse id="Ellipse_13-20" data-name="Ellipse 13" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0 0)" fill="#befffd"/>
+      </g>
+    </g>
+  </g>
+</svg>

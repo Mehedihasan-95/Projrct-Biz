@@ -1,0 +1,375 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="533.195" height="576.231" viewBox="0 0 533.195 576.231">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_270" data-name="Rectangle 270" width="103.983" height="27.25" transform="translate(0)" fill="#abfffd" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.21"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_270-2" data-name="Rectangle 270" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.21"/>
+    </clipPath>
+    <clipPath id="clip-path-38">
+      <rect id="Rectangle_270-38" data-name="Rectangle 270" width="33.604" height="14.48" transform="translate(0)" fill="#abfffd" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.21"/>
+    </clipPath>
+  </defs>
+  <g id="premium-building" transform="translate(-1637.399 -99.651)">
+    <path id="Path_982" data-name="Path 982" d="M3113.138,2308.573c0,7.18-119.359,13-266.6,13s-266.6-5.82-266.6-13,119.36-13,266.6-13S3113.138,2301.394,3113.138,2308.573Z" transform="translate(-942.545 -1645.691)" fill="#b4ebe8"/>
+    <g id="Group_1195" data-name="Group 1195">
+      <path id="Path_978" data-name="Path 978" d="M0,0,365.606.277V19.2L0,19.264Z" transform="translate(1721.196 641.756)" fill="#24afac"/>
+      <rect id="Rectangle_275" data-name="Rectangle 275" width="111.93" height="335.714" transform="translate(1974.196 321.368)" fill="none" stroke="#24afac" stroke-width="5"/>
+      <rect id="Rectangle_275-2" data-name="Rectangle 275" width="111.93" height="335.714" transform="translate(1721.196 321.368)" fill="none" stroke="#24afac" stroke-width="5"/>
+      <g id="hirise-building-door" transform="translate(1751.534 589.629)">
+        <path id="Path_974" data-name="Path 974" d="M0,0H50.512V64.186H0V0Z" transform="translate(0 0.025)" fill="#68e5e2" stroke="#0ad2cd" stroke-width="3"/>
+        <line id="Line_1" data-name="Line 1" y2="64.342" transform="translate(25.039)" fill="none" stroke="#02cfca" stroke-width="1"/>
+      </g>
+      <g id="hirise-building-door-2" data-name="hirise-building-door" transform="translate(2004.534 589.629)">
+        <path id="Path_974-2" data-name="Path 974" d="M0,0H50.512V64.186H0V0Z" transform="translate(0 0.025)" fill="#68e5e2" stroke="#0ad2cd" stroke-width="3"/>
+        <line id="Line_1-2" data-name="Line 1" y2="64.342" transform="translate(25.039)" fill="none" stroke="#02cfca" stroke-width="1"/>
+      </g>
+      <g id="Group_1144" data-name="Group 1144" transform="translate(1833.669 196.688)">
+        <path id="Path_975" data-name="Path 975" d="M0,0H139.95V449.525H0Z" transform="translate(0.331)" fill="#fff" stroke="#24afac" stroke-width="5"/>
+        <g id="Group_1196" data-name="Group 1196" transform="translate(15.831 13.206)">
+          <rect id="Rectangle_224" data-name="Rectangle 224" width="107.912" height="31.179" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path)">
+            <rect id="Rectangle_268" data-name="Rectangle 268" width="103.983" height="27.25" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972" data-name="Path 972" d="M0,0,94.162,57.26l11.038,19.7L11.038,19.7Z" transform="translate(-43.067 22.157) rotate(-47)" fill="#fff"/>
+            <path id="Path_973" data-name="Path 973" d="M0,0,94.162,57.26l5.519,9.848L5.519,9.848Z" transform="translate(12.882 32.696) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="building-window" transform="translate(1854 262.94)">
+        <rect id="Rectangle_224-2" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="Mask_Group_59-2" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_268-2" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_972-2" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+          <path id="Path_973-2" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="building-window-2" data-name="building-window" transform="translate(1854 306.94)">
+        <rect id="Rectangle_224-3" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="Mask_Group_59-3" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_268-3" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_972-3" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+          <path id="Path_973-3" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="building-window-3" data-name="building-window" transform="translate(1854 350.94)">
+        <rect id="Rectangle_224-4" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="Mask_Group_59-4" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_268-4" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_972-4" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+          <path id="Path_973-4" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="building-window-4" data-name="building-window" transform="translate(1927 262.94)">
+        <rect id="Rectangle_224-5" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="Mask_Group_59-5" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_268-5" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_972-5" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+          <path id="Path_973-5" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="building-window-5" data-name="building-window" transform="translate(1927 306.94)">
+        <rect id="Rectangle_224-6" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="Mask_Group_59-6" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_268-6" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_972-6" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+          <path id="Path_973-6" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="building-window-6" data-name="building-window" transform="translate(1927 350.94)">
+        <rect id="Rectangle_224-7" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <g id="Mask_Group_59-7" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_268-7" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_972-7" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+          <path id="Path_973-7" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_1188" data-name="Group 1188">
+        <g id="building-window-7" data-name="building-window" transform="translate(1854 415.94)">
+          <rect id="Rectangle_224-8" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-8" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-8" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-8" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-8" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-8" data-name="building-window" transform="translate(1854 568.94)">
+          <rect id="Rectangle_224-9" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-9" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-9" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-9" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-9" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-9" data-name="building-window" transform="translate(1854 459.94)">
+          <rect id="Rectangle_224-10" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-10" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-10" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-10" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-10" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-10" data-name="building-window" transform="translate(1854 612.94)">
+          <rect id="Rectangle_224-11" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-11" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-11" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-11" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-11" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-11" data-name="building-window" transform="translate(1854 503.94)">
+          <rect id="Rectangle_224-12" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-12" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-12" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-12" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-12" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-12" data-name="building-window" transform="translate(1927 415.94)">
+          <rect id="Rectangle_224-13" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-13" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-13" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-13" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-13" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-13" data-name="building-window" transform="translate(1927 568.94)">
+          <rect id="Rectangle_224-14" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-14" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-14" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-14" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-14" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-14" data-name="building-window" transform="translate(1927 459.94)">
+          <rect id="Rectangle_224-15" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-15" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-15" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-15" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-15" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-15" data-name="building-window" transform="translate(1927 612.94)">
+          <rect id="Rectangle_224-16" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-16" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-16" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-16" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-16" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-16" data-name="building-window" transform="translate(1927 503.94)">
+          <rect id="Rectangle_224-17" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-17" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-17" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-17" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-17" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1189" data-name="Group 1189" transform="translate(-119.219 -74)">
+        <g id="building-window-17" data-name="building-window" transform="translate(1854 415.94)">
+          <rect id="Rectangle_224-18" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-18" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-18" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-18" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-18" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-18" data-name="building-window" transform="translate(1854 568.94)">
+          <rect id="Rectangle_224-19" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-19" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-19" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-19" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-19" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-19" data-name="building-window" transform="translate(1854 459.94)">
+          <rect id="Rectangle_224-20" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-20" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-20" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-20" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-20" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-20" data-name="building-window" transform="translate(1854 612.94)">
+          <rect id="Rectangle_224-21" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-21" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-21" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-21" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-21" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-21" data-name="building-window" transform="translate(1854 503.94)">
+          <rect id="Rectangle_224-22" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-22" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-22" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-22" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-22" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-22" data-name="building-window" transform="translate(1907.5 415.94)">
+          <rect id="Rectangle_224-23" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-23" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-23" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-23" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-23" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-23" data-name="building-window" transform="translate(1907.5 568.94)">
+          <rect id="Rectangle_224-24" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-24" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-24" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-24" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-24" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-24" data-name="building-window" transform="translate(1907.5 459.94)">
+          <rect id="Rectangle_224-25" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-25" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-25" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-25" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-25" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-25" data-name="building-window" transform="translate(1907.5 612.94)">
+          <rect id="Rectangle_224-26" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-26" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-26" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-26" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-26" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-26" data-name="building-window" transform="translate(1907.5 503.94)">
+          <rect id="Rectangle_224-27" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-27" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-27" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-27" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-27" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1190" data-name="Group 1190" transform="translate(133.781 -74)">
+        <g id="building-window-27" data-name="building-window" transform="translate(1854 415.94)">
+          <rect id="Rectangle_224-28" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-28" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-28" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-28" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-28" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-28" data-name="building-window" transform="translate(1854 568.94)">
+          <rect id="Rectangle_224-29" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-29" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-29" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-29" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-29" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-29" data-name="building-window" transform="translate(1854 459.94)">
+          <rect id="Rectangle_224-30" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-30" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-30" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-30" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-30" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-30" data-name="building-window" transform="translate(1854 612.94)">
+          <rect id="Rectangle_224-31" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-31" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-31" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-31" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-31" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-31" data-name="building-window" transform="translate(1854 503.94)">
+          <rect id="Rectangle_224-32" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-32" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-32" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-32" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-32" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-32" data-name="building-window" transform="translate(1907.5 415.94)">
+          <rect id="Rectangle_224-33" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-33" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-33" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-33" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-33" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-33" data-name="building-window" transform="translate(1907.5 568.94)">
+          <rect id="Rectangle_224-34" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-34" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-34" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-34" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-34" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-34" data-name="building-window" transform="translate(1907.5 459.94)">
+          <rect id="Rectangle_224-35" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-35" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-35" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-35" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-35" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-35" data-name="building-window" transform="translate(1907.5 612.94)">
+          <rect id="Rectangle_224-36" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-36" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-36" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-36" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-36" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="building-window-36" data-name="building-window" transform="translate(1907.5 503.94)">
+          <rect id="Rectangle_224-37" data-name="Rectangle 224" width="31.178" height="28.232" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-37" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_268-37" data-name="Rectangle 268" width="27.249" height="24.303" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-37" data-name="Path 972" d="M0,0,38.409,2.2l.424,7.463L.424,7.463Z" transform="translate(-11.286 19.761) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-37" data-name="Path 973" d="M0,0,38.409,2.2l.212,3.732L.212,3.732Z" transform="translate(3.376 29.16) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_276" data-name="Rectangle 276" width="110.915" height="59.094" transform="translate(1847.696 137.76)" fill="#fff" stroke="#24afac" stroke-width="5"/>
+      <g id="Group_1191" data-name="Group 1191">
+        <g id="upper-window" transform="translate(1857.922 145.127)">
+          <rect id="Rectangle_224-38" data-name="Rectangle 224" width="37.533" height="18.409" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-38" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-38)">
+            <rect id="Rectangle_268-38" data-name="Rectangle 268" width="33.604" height="14.48" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-38" data-name="Path 972" d="M0,0,34.97,14.271,37.721,21.4,2.751,7.126Z" transform="translate(-13.918 11.774) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-38" data-name="Path 973" d="M0,0,34.97,14.271l1.376,3.563L1.376,3.563Z" transform="translate(4.163 17.374) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="upper-window-2" data-name="upper-window" transform="translate(1910.922 145.127)">
+          <rect id="Rectangle_224-39" data-name="Rectangle 224" width="37.533" height="18.409" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-39" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-38)">
+            <rect id="Rectangle_268-39" data-name="Rectangle 268" width="33.604" height="14.48" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-39" data-name="Path 972" d="M0,0,34.97,14.271,37.721,21.4,2.751,7.126Z" transform="translate(-13.918 11.774) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-39" data-name="Path 973" d="M0,0,34.97,14.271l1.376,3.563L1.376,3.563Z" transform="translate(4.163 17.374) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1192" data-name="Group 1192" transform="translate(0 26)">
+        <g id="upper-window-3" data-name="upper-window" transform="translate(1857.922 145.127)">
+          <rect id="Rectangle_224-40" data-name="Rectangle 224" width="37.533" height="18.409" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-40" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-38)">
+            <rect id="Rectangle_268-40" data-name="Rectangle 268" width="33.604" height="14.48" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-40" data-name="Path 972" d="M0,0,34.97,14.271,37.721,21.4,2.751,7.126Z" transform="translate(-13.918 11.774) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-40" data-name="Path 973" d="M0,0,34.97,14.271l1.376,3.563L1.376,3.563Z" transform="translate(4.163 17.374) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="upper-window-4" data-name="upper-window" transform="translate(1910.922 145.127)">
+          <rect id="Rectangle_224-41" data-name="Rectangle 224" width="37.533" height="18.409" fill="#24afac" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <g id="Mask_Group_59-41" data-name="Mask Group 59" transform="translate(1.965 1.965)" clip-path="url(#clip-path-38)">
+            <rect id="Rectangle_268-41" data-name="Rectangle 268" width="33.604" height="14.48" transform="translate(0)" fill="#68e5e2" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+            <path id="Path_972-41" data-name="Path 972" d="M0,0,34.97,14.271,37.721,21.4,2.751,7.126Z" transform="translate(-13.918 11.774) rotate(-47)" fill="#fff"/>
+            <path id="Path_973-41" data-name="Path 973" d="M0,0,34.97,14.271l1.376,3.563L1.376,3.563Z" transform="translate(4.163 17.374) rotate(-47)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1140" data-name="Group 1140" transform="translate(1859.975 102.151)">
+        <rect id="Rectangle_273" data-name="Rectangle 273" width="54.808" height="15.821" transform="translate(15.721)" fill="#fff" stroke="#24afac" stroke-width="5"/>
+        <rect id="Rectangle_272" data-name="Rectangle 272" width="86.24" height="19.259" transform="translate(0 15.821)" fill="#fff" stroke="#24afac" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>
