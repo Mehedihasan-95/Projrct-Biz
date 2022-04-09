@@ -313,7 +313,7 @@
                 </div>
                 <div class="g-mt-20 g-pa-10">
                   <h5 class="g-font-weight-600">Get your business documents</h5>
-                  <p class="g-py-20">We deliver your business documents, including your business formation certificate and... </p>
+                  <p class="g-py-20">We deliver your business documents, including your business formation certificate.. </p>
                   <p class="g-py-20 g-color-cyan">know more about documents ?</p>
                 </div>
               </div>
