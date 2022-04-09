@@ -92,6 +92,9 @@
                 <div class="col-sm-4 pl-0 g-mb-50">
                     <!-- Area of Interest -->
                     <select id="stateOptions" class="js-custom-select g-brb-cyan-custom w-100 u-select-v1 g-color-gray-dark-v5 g-color-cyan--hover text-left g-rounded-10 g-pl-30 g-py-12" data-placeholder="Choose State" data-open-icon="fa fa-angle-down" data-close-icon="fa fa-angle-up">
+                    <option class="g-brd-secondary-light-v2 g-color-white--active g-bg-cyan--active" value="C-Corporation">C Corporation</option>
+                        <option class="g-brd-secondary-light-v2 g-color-white--active g-bg-cyan--active" value="S-Corporation">S Corporation (US Residents Only)</option>
+                        <option class="g-brd-secondary-light-v2 g-color-white--active g-bg-cyan--active" value="LLC">Limited Liability Company (LLC)</option>
                     </select>
                     <!-- End Area of Interest -->
                 </div>
@@ -649,17 +652,6 @@
                 <div class="g-pa-30">
                     <h4>What is the Name Availability Search?</h4>
                     <p class="text-justify pl-3">Our formation experts will perform a detailed search of your state’s database to verify the name of your business is available before filing your paperwork. If the name you requested is not available, then we will contact you to find an acceptible alternative before starting the formation process.</p>
-                    <!-- <div class="g-pt-15">
-                        <h4>Additional Benefits of a LLC</h4>
-                        <p class="g-font-weight-600 pl-3 g-font-size-15">Separates Business from Personal</p>
-                        <p class="text-justify pl-3">LLCs keep your income and losses and your business’s income and losses separate. If you’re saving for Susie to attend dental school or veterinary school so she can become a dentist or veterinarian or horse dentist, you don’t have to worry about the business’s debts eating into that money.</p>
-                        <p class="g-font-weight-600 pl-3 g-font-size-15">Establishes an Official Business</p>
-                        <p class="text-justify pl-3">LLC your company becomes a state-recognized entity. Not only is that distinction important on an official government level, but you’ll likely find clients and others more willing to take you seriously when you have that “LLC” behind
-                        <p class="g-font-weight-600 pl-3 g-font-size-15">Offers Flexible Management Structure</p>
-                        <p class="text-justify pl-3">LLCs aren’t required to have the same formal structure as corporations. Corporations must meet annually to elect a board of directors to oversee the company policies and officers to run the business. But LLCs have much more flexibility in how they operate and make decisions for the business.</p>
-                        <p class="g-font-weight-600 pl-3 g-font-size-15">Required Less Reporting</p>
-                        <p class="text-justify pl-3">Although legal requirements for reporting and bookkeeping vary from state to state, generally speaking LLCs have fewer requirements for both than corporations. And let’s be real: When you dreamed up starting a business, how much of that involved doing red tape and bureaucracy?</p>
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -669,13 +661,7 @@
     <!-- Welcome Back Modal -->
     <div class="modal fade" id="welcomeBackModal" backdrop="false" tabindex="-1" role="dialog" aria-labelledby="welcomeBackLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
-                <!-- <div class="modal-header">
-                    <h3 class="g-font-weight-700"><span class="g-color-cyan">Name </span> Availability Search</h3>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <i class="hs-icon hs-icon-close"></i>
-                    </button>
-                </div> -->
+            <div class="modal-content">                
                 <div class="g-pa-30 text-center">
                     <h1>Welcome Back</h1>
                     <p>Continue where you left off or clear <br> everything and start over?</p>
@@ -725,118 +711,7 @@
 
     <!-- JS Plugins Init. -->
     <script type="text/javascript">
-        function pricePlan(e, planName) {
-            e.preventDefault();
-            let price = +document.getElementById(planName + 'Price').innerHTML;
-            let stateFee = +document.getElementById(planName + 'StateFee').innerHTML;
-            let total = +document.getElementById(planName + 'Total').innerHTML;
-            let futurePrice = +document.getElementById(planName + 'FuturePrice').innerHTML;
-            let annualPrice = +document.getElementById(planName + 'AnnualPrice').innerHTML;
-            let futureTotal = +document.getElementById(planName + 'FutureTotal').innerHTML;
-
-            let pricePlan = {
-                "planName": planName,
-                "price": price,
-                "stateFee": stateFee,
-                "total": total,
-                "futurePrice": futurePrice,
-                "annualPrice": annualPrice,
-                "futureTotal": futureTotal
-            };
-            localStorage.setItem('pricingPlan', JSON.stringify(pricePlan));
-            window.location.href = "finalize-plan.php";
-        }
-
-        $(document).on('ready', function() {
-
-            // initialization of carousel
-            $.HSCore.components.HSCarousel.init('.js-carousel');
-
-            // initialization of tabs
-            $.HSCore.components.HSTabs.init('[role="tablist"]');
-
-            // initialization of text animation (typing)
-            $(".u-text-animation.u-text-animation--typing").typed({
-                strings: [
-                    "awesome",
-                    "creative",
-                    "unify"
-                ],
-                typeSpeed: 60,
-                loop: true,
-                backDelay: 1500
-            });
-
-            // initialization of go to
-            $.HSCore.components.HSGoTo.init('.js-go-to');
-
-            // initialization of custom select
-            $.HSCore.components.HSSelect.init('.js-custom-select');
-
-            $.ajax({
-                type: 'GET',
-                url: 'http://localhost/BizFormaiton/bizformaiton2-ui/data.json',
-                dataType: 'json',
-                timeout: 20000,
-                success: function(msg) {
-                    let data = msg['data'];
-                    var dropdown = document.getElementById("stateOptions");
-                    dropdown.innerHTML = 'undefined' ? dropdown.innerHTML : '';
-                    for (let i = 0; i < data.length; i++) {
-                        var option = document.createElement("option");
-                        option.text = data[i]['city'];
-                        option.value = data[i]['city'];
-                        option.setAttribute('class', 'cfg-brd-secondary-light-v2 g-color-white--active g-bg-cyan--active');
-                        option.setAttribute('value', data[i]['city']);
-                        dropdown.add(option);
-                    }
-                    $(".js-custom-select").trigger("chosen:updated");
-                },
-                error: function(xhr) { // When Service call fails
-                    alert("Error: " + xhr.responseText);
-                }
-            });
-
-
-            $('#prepare').click(function() {
-                $('#prepareModl').modal('show');
-            })
-            $('#prepareFileLLC').click(function() {
-                $('#prepareFileLLCModl').modal('show');
-            })
-            $('#NameAvailabilitySearch').click(function() {
-                $('#NameAvailabilitySearchModal').modal('show');
-            })
-            $('#welcomeBackModal').modal('show');
-            $('#startOver').click(function() {
-                localStorage.clear();
-                $('#welcomeBackModal').modal('hide');
-                localStorage.setItem("selectedState", $('#stateOptions').val());
-                localStorage.setItem('selectedService', $('#serviceOptions').val());
-            });
-
-            $('#continue').click(function() {
-                if (localStorage.getItem("url") != null) {
-                    window.location.replace(localStorage.getItem("url"));
-                }
-                $('#welcomeBackModal').modal('hide');
-            });
-
-            $('#stateOptions').change(function() {
-                localStorage.setItem("selectedState", this.options[this.selectedIndex].value);
-            });
-
-            $('#serviceOptions').change(function() {
-                localStorage.setItem('selectedService', this.options[this.selectedIndex].value);
-            });
-
-            var x = $(window).width();
-            if (x <= 1300) {
-                $('#tableBody1').removeClass('g-px-100--lg');
-                $('#tableBody2').removeClass('g-px-90--lg');
-            }
-
-        });
+      
 
         $(window).on('load', function() {
             // initialization of header
